@@ -1,4 +1,5 @@
-class BaseUrl:
+class Base:
+    OWNER = 'Qde13'
     BASE_URL = 'https://api.github.com'
     ACCESS_TOKEN = 'your token'
     headers = {

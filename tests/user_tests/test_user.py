@@ -1,7 +1,7 @@
 import allure
 import pytest
 
-from utils.request import Request as request
+from utils.api_requests import APIRequests as request
 
 
 @allure.suite("User API tests")
